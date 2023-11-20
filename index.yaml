@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  rls-operator:
+  - apiVersion: v2
+    appVersion: 0.1.0
+    created: "2023-11-20T06:30:21.459535586Z"
+    description: A Helm chart for Kubernetes
+    digest: a9b3d870915dea121c4964fedcfc120032de3592dccd80a430e2c64ba5a6d9e0
+    name: rls-operator
+    type: application
+    urls:
+    - https://github.com/Abbas-gheydi/contour-global-ratelimit-operator/releases/download/rls-operator-0.1.0/rls-operator-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-11-20T06:30:21.459545584Z"
